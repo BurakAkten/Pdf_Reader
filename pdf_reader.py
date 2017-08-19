@@ -26,7 +26,7 @@ if len(args) < 2:
 
 
 #import locale 
-l#ocale.setlocale(locale.LC_ALL, "tr_TR")
+#locale.setlocale(locale.LC_ALL, "tr_TR")
 
 import PyPDF2 as pp2 # To read a pdf file
 # to read dir and control every item is file
